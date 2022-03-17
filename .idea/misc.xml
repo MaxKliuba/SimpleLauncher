@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/ProjectsFromBookKotlin/SimpleLauncher/app/src/main/res/drawable/ic_android_24.xml" value="0.1575" />
+        <entry key="..\:/AndroidProjects/ProjectsFromBookKotlin/SimpleLauncher/app/src/main/res/drawable/ic_arrow_right_24.xml" value="0.1575" />
         <entry key="..\:/AndroidProjects/ProjectsFromBookKotlin/SimpleLauncher/app/src/main/res/layout/activity_simple_launcher.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProjects/ProjectsFromBookKotlin/SimpleLauncher/app/src/main/res/layout/list_item_application.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
