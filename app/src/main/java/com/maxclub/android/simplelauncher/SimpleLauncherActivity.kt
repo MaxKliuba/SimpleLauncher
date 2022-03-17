@@ -15,8 +15,6 @@ import androidx.recyclerview.widget.RecyclerView
 import kotlinx.coroutines.*
 import java.io.File
 
-private const val LOG_TAG = "SimpleLauncherActivity"
-
 class SimpleLauncherActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
 
